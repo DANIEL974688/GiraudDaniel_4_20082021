@@ -818,11 +818,11 @@ h4 {
 }
 
 .bg-banniere {
-    background-image: url("img/la-chouette-agence-banniere-ter.webp");
+    background-image: url("img/la-chouette-agence-banniere-ConvertImage-min.jpg");
 }
 
 .bg-presentation {
-    background-image: url("img/image-de-presentation-ter.webp");
+    background-image: url("img/image-de-presentation.min-ConvertImage-min.jpg");
 }
 
 @media (max-width: 1024px) {
